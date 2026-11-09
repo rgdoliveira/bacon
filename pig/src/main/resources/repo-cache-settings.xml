@@ -38,13 +38,13 @@
             <repositories>
                 <repository>
                     <id>indy</id>
-                    <url>${INDY_URL}</url>
+                    <url>${REPO_URL}</url>
                 </repository>
             </repositories>
             <pluginRepositories>
                 <pluginRepository>
                     <id>indy</id>
-                    <url>${INDY_URL}</url>
+                    <url>${REPO_URL}</url>
                 </pluginRepository>
             </pluginRepositories>
         </profile>

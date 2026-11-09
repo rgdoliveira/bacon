@@ -23,22 +23,22 @@
             <repositories>
                 <repository>
                     <id>indy</id>
-                    <url>${INDY_URL}</url>
+                    <url>${REPO_URL}</url>
                 </repository>
                 <repository>
                     <id>indy-temp</id>
-                    <url>${INDY_TMP_URL}/</url>
+                    <url>${REPO_TMP_URL}/</url>
                 </repository>
                 <!--${ADDITIONAL_REPOS}-->
             </repositories>
             <pluginRepositories>
                 <pluginRepository>
                     <id>indy</id>
-                    <url>${INDY_URL}</url>
+                    <url>${REPO_URL}</url>
                 </pluginRepository>
                 <pluginRepository>
                     <id>indy-temp</id>
-                    <url>${INDY_TMP_URL}</url>
+                    <url>${REPO_TMP_URL}</url>
                 </pluginRepository>
                 <!--${ADDITIONAL_PLUGIN_REPOS}-->
             </pluginRepositories>
